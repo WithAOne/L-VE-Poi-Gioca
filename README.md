@@ -1,5 +1,5 @@
 # LÖVE Poi Gioca
-An ecs for LÖVE. It's simple and just something I wipped together to start off with ecss. I put it on GitHub for whatever reason
+An ecs for LÖVE. It's simple and just something I whipped together to start off with ecss. I put it on GitHub for whatever reason
 
 
 LÖVE Poi Gioca is a simple ecs initially made just as practice but since I use it in everything I decided to upload it.
